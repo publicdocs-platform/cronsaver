@@ -1,36 +1,21 @@
-NOTICE - COPYRIGHT, TERMS AND CONDITIONS
+MIT License
 
-The https://github.com/publicdocs project (the "Project") content,
-including software, website, and document metadata and compilation:
-Copyright (c) 2018 Advay Mengle and the authors of the https://github.com/publicdocs project.
+Copyright (c) 2018 Advay Mengle and the authors of the https://github.com/publicdocs project
 
-Project content, excluding third-party content, is licensed under the
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
-License (the "License"), available at https://creativecommons.org/licenses/by-nc-nd/4.0/.
-Attribution under the License requires inclusion of the entirety of this
-notice and the document metadata (if any).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-No copyright in third-party content, including without limitation United States
-government documents, is asserted by the Project. Third-party content may be
-subject to terms and conditions on its use as asserted by the third party or
-relevant law or regulation. The Project is not affiliated with or endorsed by
-any government agency.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-ALL THIRD-PARTY CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, COMPLETENESS
-AND ACCURACY. IN NO EVENT SHALL THE PROJECT, ITS OFFICERS, SPONSORS, DIRECTORS,
-EMPLOYEES, OWNERS, DONORS, LICENSORS, SUPPLIERS, MANAGERS, MEMBERS, AUTHORS OR
-COPYRIGHT HOLDERS (TOGETHER, THE "PROJECT ENTITIES") BE LIABLE FOR ANY CLAIM,
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE THIRD-PARTY CONTENT OR THE USE
-OR OTHER DEALINGS IN THE THIRD-PARTY CONTENT.
-
-WARNING: The contents of the Project, including without limitation any third-party
-content and its metadata:
-1) may be incomplete, inaccurate or out-of-date;
-2) may not express the opinions of the Project or Project Entities;
-3) do not imply endorsement of any third-party by the Project or Project Entities, nor vice-versa;
-4) do not constitute legal advice or other professional advice of any kind;
-5) may be used only for educational or informational purposes.
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
